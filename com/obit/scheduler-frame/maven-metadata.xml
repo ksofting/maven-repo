@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.obit</groupId>
-  <artifactId>common-entity</artifactId>
+  <artifactId>scheduler-frame</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181017072115</lastUpdated>
+    <lastUpdated>20181017074251</lastUpdated>
   </versioning>
 </metadata>
